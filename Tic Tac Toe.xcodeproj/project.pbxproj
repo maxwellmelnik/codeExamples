@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		5088AE1C24CB38DB002D0E4E /* Tic Tac Toe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Tic Tac Toe"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5088AE1F24CB38DB002D0E4E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5088AE2824CB82D2002D0E4E /* ticTacToeBoard.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = ticTacToeBoard.rtf; sourceTree = "<group>"; };
+		5088AE2924CB8304002D0E4E /* board.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = board.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			children = (
 				5088AE1E24CB38DB002D0E4E /* Tic Tac Toe */,
 				5088AE1D24CB38DB002D0E4E /* Products */,
+				5088AE2824CB82D2002D0E4E /* ticTacToeBoard.rtf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				5088AE1F24CB38DB002D0E4E /* main.cpp */,
+				5088AE2924CB8304002D0E4E /* board.rtf */,
 			);
 			path = "Tic Tac Toe";
 			sourceTree = "<group>";
